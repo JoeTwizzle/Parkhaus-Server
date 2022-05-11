@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Parkhaus-Server:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Parkhaus-Server</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Parkhaus-Server-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Parkhaus-Server:war exploded" />
+    </root>
+  </artifact>
+</component>
