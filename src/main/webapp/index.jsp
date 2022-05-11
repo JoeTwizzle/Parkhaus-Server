@@ -73,7 +73,7 @@
                          license_max="30"
                          client_categories='["any","Business"]'
                          space_color='{"1":"yellow","6":"black"}'
-                         vehicle_types='["PKW","SUV"]'
+                         vehicle_types='["E-Car","Gas-Car"]'
                          price_factor='{"SUV":2,"Business":1}'
                          debug="true"
                          hide_table="true"
